@@ -11,5 +11,5 @@ edition = "2021"
 [output.html]
 git-repository-url = "https://github.com/camptocamp/rust-camp"
 git-repository-icon = "fa-github"
-edit-url-template = "https://github.com/camptocamp/rust-camp/edit/master/rust-camp-book/{path}"
+edit-url-template = "https://github.com/camptocamp/rust-camp/edit/main/rust-camp-book/{path}"
 site-url = "/rust-camp"
