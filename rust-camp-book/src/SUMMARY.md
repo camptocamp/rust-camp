@@ -4,9 +4,9 @@
 
 # User Guide
 
-- [Getting Started](./rust/README.md)
-- [Learn Rust](./rust/chapter_1.md)
-- [Geospatial Rust](./rust/chapter_2.md)
+- [Getting Started](./rust/chapter_1.md)
+- [Learn Rust](./rust/chapter_2.md)
+- [Geospatial Rust](./rust/chapter_3.md)
 
 # Projects
 
