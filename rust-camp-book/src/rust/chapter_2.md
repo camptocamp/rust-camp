@@ -13,6 +13,7 @@ It offers a comprehensive introduction to the language including hands-on chapte
 ## Further Resources
 
 The [official website](https://www.rust-lang.org/learn) contains many more learning resources covering various domain specific aspects of the language, the core documentaion and reference material.
+ * _`Webassemby Book`_ ([online](https://rustwasm.github.io/docs/book/))
 
 The following resources are worth looking at as they are either highly regarded in the community, read, owned and/or recommended by guild members.
 
