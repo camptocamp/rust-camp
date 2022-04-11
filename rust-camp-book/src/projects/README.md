@@ -6,7 +6,12 @@ A curated list of projects at Camptocamp where Rust is used.
 
 [Abbreviator](https://github.com/camptocamp/abbreviator) is a URL Shortener with a `SQLite` database and is based on [Tide](https://github.com/http-rs/tide) and [sqlx](https://github.com/launchbadge/sqlx) leveraging the `async-std` runtime.
 
-It features basic Rust CI, configuration through environment variables, CORS and a minimal Docker image. 
+It features basic Rust CI, configuration through environment variables, CORS and a minimal Docker image.
+
+## OGC API
+The [ogcapi](https://github.com/camptocamp/ogcapi) project is an ongoing impementation of various [OGC API standards](https://ogcapi.ogc.org/).
+
+It features comprehensive `type definitions`, a server implementation for collections, features, tiles and styles, a `PostgreSQL` driver and vector data import leveraging gdal.
 
 ## Swissgeol Viewer
 
