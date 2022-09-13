@@ -2,7 +2,7 @@
 
 ## GeoRust
 
-[GeoRust](https://georust.org/) is a collective of people interested in Geospatial Rust wich maintain a collection of geospatial tools and libraries written in Rust as well as an intorductory (wip) [Geospatial Rust](https://book.georust.org/) book.
+[GeoRust](https://georust.org/) is a collective of people interested in Geospatial Rust wich maintain a collection of geospatial tools and libraries written in Rust as well as an introductory (wip) [Geospatial Rust](https://book.georust.org/) book.
 
 ## Awesome Geo Rust
 
